@@ -7,6 +7,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CiscoMerchan&layout=compact&theme=github_dark&count_private=true)
 
+![Codewars](https://github.r2v.ch/codewars?user=Cisco08&stroke=%23187bcd)
+
 <hr noshade>
 
 
